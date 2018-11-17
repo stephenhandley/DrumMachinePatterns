@@ -7,7 +7,7 @@ module.exports = {
   ClosedHiHat: 42,
   OpenHiHat: 46,
   Cymbal: 49,
-  RimShot: 37
+  RimShot: 37,
   Clap: 39,
   Cowbell: 56,
   Tambourine: 54

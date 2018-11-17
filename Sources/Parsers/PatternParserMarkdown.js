@@ -62,8 +62,8 @@ class PatternParserMarkdown extends Parser {
       const title = `${title_prefix}${subtitle}`.replace(/\s/g, '');
       const table = tables[i];
       const length = parseInt(table.querySelector('thead tr :last-child').textContent);
-      const lanes = {};
-      const pattern = {title, signature, length, lanes}
+      const tracks = {};
+      const pattern = {title, signature, length, tracks}
 
       for (let row of table.querySelectorAll('tbody tr')) {
         row = Array.from(row.querySelectorAll('td'));
@@ -75,7 +75,7 @@ class PatternParserMarkdown extends Parser {
           pattern.accent = notes;
         } else {
           sound = SoundByCode[sound];
-          lanes[sound] = notes;
+          tracks[sound] = notes;
         }
       };
       patterns.push(pattern);

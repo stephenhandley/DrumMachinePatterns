@@ -53,7 +53,7 @@ class PatternParserText extends Parser {
 
   static generate (patterns) {
     return patterns.map((pattern)=> {
-      const {title, signature, length, lanes, accent} = pattern;
+      const {title, signature, length, tracks, accent} = pattern;
       const header_title = `${title} ${signature}`;
       const header_dashes = nDashes(length);
       const header_guide = nGuide(length);
@@ -69,7 +69,7 @@ class PatternParserText extends Parser {
         lines.push(accent_line);
       }
 
-      for (const [sound, notes] of Object.entries(lanes)) {
+      for (const [sound, notes] of Object.entries(tracks)) {
         const sound_code = CodeBySound[sound];
         const note_codes = invertNotes(notes).join('');
         const line = `${sound_code}: ${note_codes}`;
@@ -156,16 +156,16 @@ class PatternParserText extends Parser {
   parsePattern () {
     this.state = State.Pattern;
 
-    this.pattern.lanes = {};
+    this.pattern.tracks = {};
     while (this.inState(State.Pattern)) {
-      this.parseLane();
+      this.parseTrack();
     }
 
     this.patterns.push(this.pattern);
     this.pattern = {};
   }
 
-  parseLane () {
+  parseTrack () {
     if (this.isBlank(this.line)) {
       this.state = State.Ready;
       return;
@@ -176,14 +176,14 @@ class PatternParserText extends Parser {
       const {accent} = accent_match;
       this.pattern.accent = this.parseNotes(accent);
     } else {
-      const lane_match = this.matchLane(this.line);
-      if (!lane_match) {
-        return this.setError('Invalid lane');
+      const track_match = this.matchTrack(this.line);
+      if (!track_match) {
+        return this.setError('Invalid track');
       }
-      const {snd, pattern} = lane_match;
+      const {snd, pattern} = track_match;
       const sound = SoundByCode[snd];
       const notes = this.parseNotes(pattern);
-      this.pattern.lanes[sound] = notes;
+      this.pattern.tracks[sound] = notes;
     }
 
     this.line_number++;
@@ -229,7 +229,7 @@ class PatternParserText extends Parser {
     return this.matchRegex({line, regex});
   }
 
-  matchLane (line) {
+  matchTrack (line) {
     const sounds = Object.keys(SoundByCode).join('|');
     const regex = `^(?<snd>${sounds}): (?<pattern>[ ox]+)`;
     return this.matchRegex({line, regex});

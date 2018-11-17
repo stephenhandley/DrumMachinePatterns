@@ -3,7 +3,7 @@
   "title": "Rock1MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -82,7 +82,7 @@
   "title": "Rock1MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -143,7 +143,7 @@
   "title": "Rock1Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -240,7 +240,7 @@
   "title": "Rock2MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -337,7 +337,7 @@
   "title": "Rock2MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -416,7 +416,7 @@
   "title": "Rock2Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "Cymbal": [
     "Rest",
     "Rest",
@@ -513,7 +513,7 @@
   "title": "Rock3MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -574,7 +574,7 @@
   "title": "Rock3MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -635,7 +635,7 @@
   "title": "Rock3Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -714,7 +714,7 @@
   "title": "Rock4MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -775,7 +775,7 @@
   "title": "Rock4MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -854,7 +854,7 @@
   "title": "Rock4Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "SnareDrum": [
     "Note",
     "Note",
@@ -915,7 +915,7 @@
   "title": "Rock5MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -976,7 +976,7 @@
   "title": "Rock5MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -1037,7 +1037,7 @@
   "title": "Rock5Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -1116,7 +1116,7 @@
   "title": "Funk1MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -1177,7 +1177,7 @@
   "title": "Funk1MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -1256,7 +1256,7 @@
   "title": "Funk1Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -1335,7 +1335,7 @@
   "title": "Funk2MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -1414,7 +1414,7 @@
   "title": "Funk2MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -1475,7 +1475,7 @@
   "title": "Funk2Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -1554,7 +1554,7 @@
   "title": "Funk3MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -1615,7 +1615,7 @@
   "title": "Funk3MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -1676,7 +1676,7 @@
   "title": "Funk3Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -1755,7 +1755,7 @@
   "title": "Funk4MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -1816,7 +1816,7 @@
   "title": "Funk4MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -1877,7 +1877,7 @@
   "title": "Funk4Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "HighTom": [
     "Rest",
     "Rest",
@@ -1938,7 +1938,7 @@
   "title": "Funk5MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -2017,7 +2017,7 @@
   "title": "Funk5MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -2078,7 +2078,7 @@
   "title": "Funk5Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -2157,7 +2157,7 @@
   "title": "Funk6MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -2236,7 +2236,7 @@
   "title": "Funk6MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -2351,7 +2351,7 @@
   "title": "Funk6Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "MediumTom": [
     "Rest",
     "Rest",
@@ -2412,7 +2412,7 @@
   "title": "Funk7MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -2491,7 +2491,7 @@
   "title": "Funk7MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -2588,7 +2588,7 @@
   "title": "Funk7Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -2667,7 +2667,7 @@
   "title": "Funk8MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "OpenHiHat": [
     "Note",
     "Rest",
@@ -2728,7 +2728,7 @@
   "title": "Funk8MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "OpenHiHat": [
     "Note",
     "Rest",
@@ -2789,7 +2789,7 @@
   "title": "Funk8Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -2886,7 +2886,7 @@
   "title": "Funk9MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -2965,7 +2965,7 @@
   "title": "Funk9MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -3044,7 +3044,7 @@
   "title": "Funk9Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -3123,7 +3123,7 @@
   "title": "Funk10MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -3184,7 +3184,7 @@
   "title": "Funk10MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -3245,7 +3245,7 @@
   "title": "Funk10Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -3324,7 +3324,7 @@
   "title": "Funk11MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -3403,7 +3403,7 @@
   "title": "Funk11MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -3482,7 +3482,7 @@
   "title": "Funk11Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "HighTom": [
     "Rest",
     "Rest",
@@ -3561,7 +3561,7 @@
   "title": "Funk12MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -3640,7 +3640,7 @@
   "title": "Funk12MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -3719,7 +3719,7 @@
   "title": "Funk12Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "OpenHiHat": [
     "Note",
     "Rest",
@@ -3798,7 +3798,7 @@
   "title": "Funk13MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -3877,7 +3877,7 @@
   "title": "Funk13MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -3956,7 +3956,7 @@
   "title": "Funk13Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "MediumTom": [
     "Rest",
     "Rest",
@@ -4017,7 +4017,7 @@
   "title": "Funk14MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -4078,7 +4078,7 @@
   "title": "Funk14MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -4139,7 +4139,7 @@
   "title": "Funk14Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -4218,7 +4218,7 @@
   "title": "Funk15MeasureA",
   "signature": "4/4",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -4267,7 +4267,7 @@
   "title": "Funk15MeasureB",
   "signature": "4/4",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -4316,7 +4316,7 @@
   "title": "Funk15Break",
   "signature": "4/4",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -4379,7 +4379,7 @@
   "title": "Rhythm&Blues1MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -4440,7 +4440,7 @@
   "title": "Rhythm&Blues1MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -4501,7 +4501,7 @@
   "title": "Rhythm&Blues1Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "MediumTom": [
     "Rest",
     "Rest",
@@ -4562,7 +4562,7 @@
   "title": "Rhythm&Blues2MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -4623,7 +4623,7 @@
   "title": "Rhythm&Blues2MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -4684,7 +4684,7 @@
   "title": "Rhythm&Blues2Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "MediumTom": [
     "Rest",
     "Rest",
@@ -4763,7 +4763,7 @@
   "title": "Rhythm&Blues3MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -4824,7 +4824,7 @@
   "title": "Rhythm&Blues3MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -4885,7 +4885,7 @@
   "title": "Rhythm&Blues3Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -4982,7 +4982,7 @@
   "title": "Rhythm&Blues4MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -5043,7 +5043,7 @@
   "title": "Rhythm&Blues4MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -5122,7 +5122,7 @@
   "title": "Rhythm&Blues4Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -5201,7 +5201,7 @@
   "title": "Rhythm&Blues5MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -5262,7 +5262,7 @@
   "title": "Rhythm&Blues5MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -5323,7 +5323,7 @@
   "title": "Rhythm&Blues5Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -5420,7 +5420,7 @@
   "title": "Ballad1MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -5481,7 +5481,7 @@
   "title": "Ballad1MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -5542,7 +5542,7 @@
   "title": "Ballad1Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -5657,7 +5657,7 @@
   "title": "Ballad2MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -5736,7 +5736,7 @@
   "title": "Ballad2MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -5797,7 +5797,7 @@
   "title": "Ballad2Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -5912,7 +5912,7 @@
   "title": "Ballad3MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -5991,7 +5991,7 @@
   "title": "Ballad3MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -6052,7 +6052,7 @@
   "title": "Ballad3Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "HighTom": [
     "Rest",
     "Rest",
@@ -6131,7 +6131,7 @@
   "title": "Ballad4MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -6210,7 +6210,7 @@
   "title": "Ballad4MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -6289,7 +6289,7 @@
   "title": "Ballad4Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -6404,7 +6404,7 @@
   "title": "Ballad5MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -6483,7 +6483,7 @@
   "title": "Ballad5MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -6544,7 +6544,7 @@
   "title": "Ballad5Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -6677,7 +6677,7 @@
   "title": "Pop1MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -6756,7 +6756,7 @@
   "title": "Pop1MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -6835,7 +6835,7 @@
   "title": "Pop1Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -6932,7 +6932,7 @@
   "title": "Pop2MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -6993,7 +6993,7 @@
   "title": "Pop2MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -7072,7 +7072,7 @@
   "title": "Pop2Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "MediumTom": [
     "Rest",
     "Rest",
@@ -7151,7 +7151,7 @@
   "title": "Pop3MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -7212,7 +7212,7 @@
   "title": "Pop3MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -7273,7 +7273,7 @@
   "title": "Pop3Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -7388,7 +7388,7 @@
   "title": "Pop4MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -7449,7 +7449,7 @@
   "title": "Pop4MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -7510,7 +7510,7 @@
   "title": "Pop4Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -7589,7 +7589,7 @@
   "title": "Pop5MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -7650,7 +7650,7 @@
   "title": "Pop5MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -7729,7 +7729,7 @@
   "title": "Pop5Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "OpenHiHat": [
     "Note",
     "Rest",
@@ -7790,7 +7790,7 @@
   "title": "Reggae1MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -7851,7 +7851,7 @@
   "title": "Reggae1MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -7912,7 +7912,7 @@
   "title": "Reggae1Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -8009,7 +8009,7 @@
   "title": "Reggae2MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -8088,7 +8088,7 @@
   "title": "Reggae2MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -8167,7 +8167,7 @@
   "title": "Reggae2Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -8282,7 +8282,7 @@
   "title": "Reggae3MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -8343,7 +8343,7 @@
   "title": "Reggae3MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -8404,7 +8404,7 @@
   "title": "Reggae3Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "OpenHiHat": [
     "Rest",
     "Rest",
@@ -8519,7 +8519,7 @@
   "title": "Reggae4MeasureA",
   "signature": "4/4",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -8582,7 +8582,7 @@
   "title": "Reggae4MeasureB",
   "signature": "4/4",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -8645,7 +8645,7 @@
   "title": "Reggae4Break",
   "signature": "4/4",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -8708,7 +8708,7 @@
   "title": "Reggae5MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -8769,7 +8769,7 @@
   "title": "Reggae5MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -8848,7 +8848,7 @@
   "title": "Reggae5Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -8963,7 +8963,7 @@
   "title": "Disco1MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -9042,7 +9042,7 @@
   "title": "Disco1MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -9121,7 +9121,7 @@
   "title": "Disco1Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -9254,7 +9254,7 @@
   "title": "Disco2MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -9333,7 +9333,7 @@
   "title": "Disco2MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -9412,7 +9412,7 @@
   "title": "Disco2Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -9473,7 +9473,7 @@
   "title": "Disco3MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -9534,7 +9534,7 @@
   "title": "Disco3MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -9595,7 +9595,7 @@
   "title": "Disco3Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -9692,7 +9692,7 @@
   "title": "Disco4MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -9771,7 +9771,7 @@
   "title": "Disco4MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -9850,7 +9850,7 @@
   "title": "Disco4Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -9929,7 +9929,7 @@
   "title": "Disco5MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -10008,7 +10008,7 @@
   "title": "Disco5MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -10087,7 +10087,7 @@
   "title": "Disco5Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -10202,7 +10202,7 @@
   "title": "Afro-Cuban1MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -10263,7 +10263,7 @@
   "title": "Afro-Cuban1MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -10324,7 +10324,7 @@
   "title": "Afro-Cuban1Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -10439,7 +10439,7 @@
   "title": "Afro-Cuban2MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -10536,7 +10536,7 @@
   "title": "Afro-Cuban2MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -10615,7 +10615,7 @@
   "title": "Afro-Cuban2Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -10730,7 +10730,7 @@
   "title": "Afro-Cuban3MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -10827,7 +10827,7 @@
   "title": "Afro-Cuban3MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -10924,7 +10924,7 @@
   "title": "Afro-Cuban3Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -11021,7 +11021,7 @@
   "title": "Afro-Cuban4MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -11082,7 +11082,7 @@
   "title": "Afro-Cuban4MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -11179,7 +11179,7 @@
   "title": "Afro-Cuban4Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -11276,7 +11276,7 @@
   "title": "Afro-Cuban5MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -11373,7 +11373,7 @@
   "title": "Afro-Cuban5MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -11434,7 +11434,7 @@
   "title": "Afro-Cuban5Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "MediumTom": [
     "Rest",
     "Rest",
@@ -11495,7 +11495,7 @@
   "title": "Blues1MeasureA",
   "signature": "12/8",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -11544,7 +11544,7 @@
   "title": "Blues1MeasureB",
   "signature": "12/8",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -11593,7 +11593,7 @@
   "title": "Blues1Break",
   "signature": "12/8",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -11642,7 +11642,7 @@
   "title": "Blues2MeasureA",
   "signature": "12/8",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -11691,7 +11691,7 @@
   "title": "Blues2MeasureB",
   "signature": "12/8",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -11740,7 +11740,7 @@
   "title": "Blues2Break",
   "signature": "12/8",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -11789,7 +11789,7 @@
   "title": "Swing1MeasureA",
   "signature": "12/8",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -11824,7 +11824,7 @@
   "title": "Swing1MeasureB",
   "signature": "12/8",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -11873,7 +11873,7 @@
   "title": "Swing1Break",
   "signature": "12/8",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -11922,7 +11922,7 @@
   "title": "Swing2MeasureA",
   "signature": "12/8",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -11971,7 +11971,7 @@
   "title": "Swing2MeasureB",
   "signature": "12/8",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -12020,7 +12020,7 @@
   "title": "Swing2Break",
   "signature": "12/8",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -12069,7 +12069,7 @@
   "title": "Swing3MeasureA",
   "signature": "12/8",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "Cymbal": [
     "Note",
     "Rest",
@@ -12118,7 +12118,7 @@
   "title": "Swing3MeasureB",
   "signature": "12/8",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "Cymbal": [
     "Note",
     "Rest",
@@ -12167,7 +12167,7 @@
   "title": "Swing3Break",
   "signature": "12/8",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "OpenHiHat": [
     "Note",
     "Rest",
@@ -12230,7 +12230,7 @@
   "title": "Shuffle1MeasureA",
   "signature": "12/8",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -12279,7 +12279,7 @@
   "title": "Shuffle1MeasureB",
   "signature": "12/8",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -12328,7 +12328,7 @@
   "title": "Shuffle1Break",
   "signature": "12/8",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -12377,7 +12377,7 @@
   "title": "Shuffle2MeasureA",
   "signature": "12/8",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -12426,7 +12426,7 @@
   "title": "Shuffle2MeasureB",
   "signature": "12/8",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -12475,7 +12475,7 @@
   "title": "Shuffle2Break",
   "signature": "12/8",
   "length": 12,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -12524,7 +12524,7 @@
   "title": "Samba1MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Note",
@@ -12639,7 +12639,7 @@
   "title": "Samba1MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Note",
@@ -12718,7 +12718,7 @@
   "title": "Samba1Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -12815,7 +12815,7 @@
   "title": "Samba2MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -12912,7 +12912,7 @@
   "title": "Samba2MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -13027,7 +13027,7 @@
   "title": "Samba2Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "MediumTom": [
     "Note",
     "Rest",
@@ -13088,7 +13088,7 @@
   "title": "Samba3MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -13167,7 +13167,7 @@
   "title": "Samba3MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Note",
@@ -13246,7 +13246,7 @@
   "title": "Samba3Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Note",
@@ -13379,7 +13379,7 @@
   "title": "BossaNova1MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -13440,7 +13440,7 @@
   "title": "BossaNova1MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -13501,7 +13501,7 @@
   "title": "BossaNova1Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "Cymbal": [
     "Rest",
     "Rest",
@@ -13616,7 +13616,7 @@
   "title": "BossaNova2MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "Cymbal": [
     "Note",
     "Rest",
@@ -13695,7 +13695,7 @@
   "title": "BossaNova2MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "Cymbal": [
     "Note",
     "Rest",
@@ -13774,7 +13774,7 @@
   "title": "BossaNova2Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "MediumTom": [
     "Rest",
     "Rest",
@@ -13835,7 +13835,7 @@
   "title": "Cha-ChaMeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -13932,7 +13932,7 @@
   "title": "Cha-ChaMeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -14029,7 +14029,7 @@
   "title": "Cha-ChaBreak",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -14126,7 +14126,7 @@
   "title": "Twist1MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -14205,7 +14205,7 @@
   "title": "Twist1MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -14266,7 +14266,7 @@
   "title": "Twist1Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -14345,7 +14345,7 @@
   "title": "Twist2MeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -14424,7 +14424,7 @@
   "title": "Twist2MeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -14503,7 +14503,7 @@
   "title": "Twist2Break",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "MediumTom": [
     "Rest",
     "Rest",
@@ -14564,7 +14564,7 @@
   "title": "SkaMeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -14643,7 +14643,7 @@
   "title": "SkaMeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",
@@ -14740,7 +14740,7 @@
   "title": "SkaBreak",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Rest",
     "Rest",
@@ -14819,7 +14819,7 @@
   "title": "EndingsMeasureA",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "Cymbal": [
     "Note",
     "Rest",
@@ -14880,7 +14880,7 @@
   "title": "EndingsMeasureB",
   "signature": "4/4",
   "length": 16,
-  "lanes": {
+  "tracks": {
    "ClosedHiHat": [
     "Note",
     "Rest",

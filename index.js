@@ -1,9 +1,4 @@
-const DrumMachinePatterns200 = require('./DrumMachinePatterns200');
-const DrumMachinePatterns260 = require('./DrumMachinePatterns260');
-const MidiSounds = require('./MidSounds');
+const Sources = require('./Sources');
+const MidiSounds = require('./MidiSounds');
 
-module.exports = {
-  DrumMachinePatterns200,
-  DrumMachinePatterns260,
-  MidiSounds
-};
+module.exports = Object.assign({MidiSounds}, Sources);
