@@ -1,2 +1,1 @@
-https://github.com/markedjs/marked
-https://marked.js.org/#/USING_PRO.md#renderer
+Generated from [markdown transcription](https://github.com/montoyamoraga/drum-machine-patterns) made by [Aarón Montoya-Moraga](https://github.com/montoyamoraga)
