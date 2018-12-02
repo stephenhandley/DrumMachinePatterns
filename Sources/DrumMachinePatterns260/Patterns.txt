@@ -38,7 +38,6 @@ AfroCub5 4/4
 %   1234567890123456
     *       * * ****
 CH:   o   o   o   o
-RS:    o  o   o   o
 MT: o       o o
 SD:   oo oo
 LT:             oooo
@@ -970,3 +969,1330 @@ TangoBreak1 4/4
 CH: o
 SD:   o   o o o o o
 BD: o       o o o o
+
+Paso1 4/4
+--------------------
+%   1234567890123456
+CY: o o o o o ooo o
+CH:   o   o   o   o
+SD:   o   o   oo  o
+BD: o   o   o   o
+
+Paso2 4/4
+--------------------
+%   1234567890123456
+CY: o o o o o o o o
+CH:   o   o   o   o
+SD:   o   o o o o o
+BD: o   o   o   o
+
+PasoBreak1 4/4
+--------------------
+%   1234567890123456
+SD: oo o oo oo oo o
+BD: o   o   o   o
+
+PasoBreak2 4/4
+--------------------
+%   1234567890123456
+CH: o   o   o   o
+MT:      oo
+SD:  o o        o x
+LT:          o o
+BD: o   o   o   o
+
+Charleston1 4/4
+--------------------
+%   1234567890123456
+CY: o   o  oo   o  o
+CH:     o       o
+SD:     o       o
+BD: o       o
+
+CharlestonBreak1 4/4
+--------------------
+%   1234567890123456
+CH:     o       o
+SD:   o   o o   o
+BD: o       o
+
+Pop1 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: o o o o o o o o 
+SD:     o       o
+BD: oo o o ooo o o o
+
+Pop2 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: o o o o o o o o 
+SD:     o       o
+BD: o o  oooo o  ooo
+
+Pop3 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: o o o  oo o o  o
+OH:       o       o
+SD:     o       o
+BD: oo o o  oo o
+
+Pop4 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: o o o o o o o o 
+OH:        o       o
+SD:     o       o
+BD: o oo o o o o o o
+
+Pop5 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: o o o o o o o o 
+SD:     o       o
+BD: oo o    oo o  oo
+
+Pop6 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: o o o o o o o o 
+SD:     o       o
+BD: oo o    oo o
+
+Pop7 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: o o   o o o   o 
+OH:     o       o
+BD: o oo  o   oo  o 
+
+Pop8 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: o   o   o   o   
+OH:   o   o   o   o
+SD:     o       o
+BD: o o   o   o   o 
+
+Pop9 4/4
+--------------------
+%   1234567890123456
+          *     *
+CH: o o o o o   o
+OH:           o   o
+SD:       o     o o
+BD: o o       o
+
+Pop10 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: oooooooooooo
+OH:              o o
+SD:     o  o    o
+BD: o o     oo o o o
+
+Pop11 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH:  ooo ooo ooo ooo
+SD: o   o   o   o
+BD:   o  o o  o  o o
+
+Pop12 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: oooo o ooooo o o
+OH:       o       o
+SD:     o       o
+BD: o o    oo o    o
+
+PopBreak1 4/4
+--------------------
+%   1234567890123456
+HT:         oo o
+MT:     o  o
+SD: oooo
+LT:             ooo
+BD: oo      o
+
+PopBreak2 4/4
+--------------------
+%   1234567890123456
+    *  *  *  *  *
+HT:       x
+MT:    x
+SD: x           x
+LT:          x
+BD:  oo oo oo oo ooo
+
+PopBreak3 4/4
+--------------------
+%   1234567890123456
+CY: o
+HT:              ooo
+MT:         oo o
+SD:   x   x
+BD: o       o
+
+PopBreak4 4/4
+--------------------
+%   1234567890123456
+        *       *
+SD:     x    oo x
+BD: o o  o o   o
+
+PopBreak5 4/4
+--------------------
+%   1234567890123456
+CY:             oo
+MT:    x
+SD: x        x
+LT:       x
+BD:             oo
+
+PopBreak6 4/4
+--------------------
+%   1234567890123456
+    *  **  *      *
+CY: o
+CH:        o      
+OH:               o
+MT:     ooo
+SD:  ooo     oo
+LT:            oooo 
+SD: o      o
+
+Reggae1 4/4
+--------------------
+%   1234567890123456
+            *
+CH: oo o    o o o o
+OH:     o
+SD:         o
+BD: o   o   o   o
+
+Reggae2 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH:   o   o   o   o 
+RS:     o       o o
+BD: o o   o o o
+
+Reggae3 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH:   o   oo  o   oo
+RS:     o    o  o
+BD: o  o    o  o
+
+Reggae4 4/4
+--------------------
+%   1234567890123456
+CH:   o   o   o   o
+RS:     o       o
+BD:     o     o o
+
+Reggae5 4/4
+--------------------
+%   1234567890123456
+CH: o o o o o o o o
+RS:    o  o   o o
+BD: o   o   o   o
+
+Reggae6 4/4
+--------------------
+%   1234567890123456
+            *
+CH: o o o o o o o o
+RS:     o o     o o
+BD:         o
+
+Reggae7 4/4
+----------------
+%   123456789012
+       *     *
+CH: o oo oo oo
+RS: o    o   o
+BD:       o
+
+Reggae8 4/4
+----------------
+%   123456789012
+CH: o o   o o
+OH:    o     o
+RS: o     o
+BD:   o   o
+
+Reggae9 4/4
+----------------
+%   123456789012
+CH: o  o oo  o o
+RS:    o     o o
+BD: o     o
+
+Reggae10 4/4
+--------------------
+%   1234567890123456
+CH: o ooo ooo o o o
+SD:            o  o
+RS:   oo  oo   
+BD: o   o   o   o
+
+Reggae11 4/4
+--------------------
+%   1234567890123456
+CH: o  o  o o ooo   
+OH:  o  o         o
+RS:         o
+BD:         o
+
+Reggae12 4/4
+--------------------
+%   1234567890123456
+CH: o o o o o o o o
+RS:         o
+BD: o     o  o oo
+
+ReggaeBreak1 4/4
+--------------------
+%   1234567890123456
+    *           *
+CH:             o
+OH: o
+HT:     oo
+MT:       oo
+SD: o
+LT:         o o
+BD: o           o
+
+ReggaeBreak2 4/4
+--------------------
+%   1234567890123456
+        *       **
+OH:       o   o   o
+HT:         o
+MT:             oo
+SD:     o
+BD:       o   o   o
+
+ReggaeBreak3 4/4
+--------------------
+%   1234567890123456
+                ***
+OH:               o
+HT:         oo
+MT:   oo
+SD: oo    oo    oo
+LT:     o     o
+BD:               o
+
+ReggaeBreak4 4/4
+--------------------
+%   1234567890123456
+    *       * * *
+CH:     o
+OH:             o
+SD: x o   o o o o
+BD:             o
+
+ReggaeBreak5 4/4
+--------------------
+%   1234567890123456
+CH:   o     o
+OH:     o     o
+SD: x     x     x
+BD:   o o   o o
+
+ReggaeBreak6 4/4
+--------------------
+%   1234567890123456
+    *           *
+OH:             o
+HT:         oo
+MT:       oo
+SD: o
+LT:           o o
+BD: o
+
+ReggaeBreak7 4/4
+----------------
+%   123456789012
+       *     *
+OH:          o
+MT:       ooo
+SD: xooo
+LT:          o
+BD: o  o  o  o  
+
+ReggaeBreak8 4/4
+----------------
+%   123456789012
+CH:            o
+OH:           o
+HT:    ooo
+MT:       o o
+SD: o o
+LT:          ooo
+BD: o
+
+ReggaeBreak9 4/4
+----------------
+%   123456789012
+    * * * * * *
+OH: o
+HT:           oo
+MT:   oo  oo
+SD:     oo  oo
+BD: o
+
+Rock1 4/4
+--------------------
+%   1234567890123456
+    *   *       *
+CH: o o o o o o o o 
+SD:     o       o
+BD: o o   o o
+
+Rock2 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: o o o o o o o o 
+SD:     o       o
+BD: o o   o o o   o
+
+Rock3 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: o o o o o o o o 
+SD:     o       o o
+BD: o     o o
+
+Rock4 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: o o o o o o o o 
+SD:     o       o 
+BD: o     o   o   o
+
+Rock5 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: o o o o o o o o 
+SD:     o       o 
+BD: o o   o   o   o
+
+Rock6 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: o o o o o o o o 
+SD:     o       o 
+BD: o o   o   o   
+
+Rock7 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: o o o o o o o o 
+SD:     o  o o  o
+BD: o     o o o   o
+
+Rock8 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: o o o o o o o o 
+SD:     o  o o  o  o
+BD: o o     o o
+
+Rock9 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: o o o o o o o o 
+SD:     o  o  o    o
+BD: o       o     o
+
+Rock10 4/4
+--------------------
+%   1234567890123456
+                *
+CH: o o o o o o o o 
+SD:     o       o
+BD: o oo o  o oo o
+
+Rock11 4/4
+--------------------
+%   1234567890123456
+                *
+CH: o o o o o o o o 
+SD:   o         o
+BD: o     o o
+
+Rock12 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: o o o o o o o o 
+SD:     o    o  o
+BD: o o   o   o
+
+Rock13 4/4
+--------------------
+%   1234567890123456
+    *   *   *   *
+CH: oooooooooooooooo
+SD:     o       o
+BD: o      oo
+
+Rock14 4/4
+--------------------
+%   1234567890123456
+    *   *   *   *
+CH: oooooooooooooooo
+SD:     o       o
+BD: o  o  o o      o
+
+Rock14 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: o o o o o o o 
+OH:               o
+SD:     o       o
+BD: o  o oo o
+
+RockBreak1 4/4
+--------------------
+%   1234567890123456
+        *   *   *
+CH: o
+HT:             ooo
+MT:           o
+SD:   o o
+BD: o     o o
+
+RockBreak2 4/4
+--------------------
+%   1234567890123456
+          *        *
+CY:                o
+HT:            o
+MT:         oo
+SD: o o ooo
+LT:             oooo
+BD: o       o
+
+RockBreak3 4/4
+--------------------
+%   1234567890123456
+                *
+SD: o o o o o o x
+LT: o o o o o o
+
+RockBreak4 4/4
+--------------------
+%   1234567890123456
+        *   *     *
+CY:               o
+SD:     x   x
+BD: o         o   o
+
+RockBreak5 4/4
+--------------------
+%   1234567890123456
+        *     * * *
+CH: o o o
+OH:             o
+HT:             ooo
+MT:         o o
+SD:     o oo
+BD: o o     o
+
+RockBreak6 4/4
+--------------------
+%   1234567890123456
+        *     * *  *
+CY:                o
+HT:              o
+MT:             o
+SD: o o ooo  ooo
+LT:               o
+BD: o       o      o
+
+RockBreak7 4/4
+--------------------
+%   1234567890123456
+                *
+CY: o
+MT:       o
+SD:   x         x
+LT:           o
+BD: o
+
+RockBreak8 4/4
+--------------------
+%   1234567890123456
+        * *   * *
+SD:     o o   o o
+LT: o o o o o o o o
+BD: o   o   o   o
+
+RockBreak9 4/4
+--------------------
+%   1234567890123456
+    * * * *  * *  *
+CH: o
+OH:   o
+HT:             ooo
+MT:         oo o
+SD:     o o
+BD: o       o
+
+RockBreak10 4/4
+--------------------
+%   1234567890123456
+    *   *   * *   *
+CH: o o o o
+OH:               o
+MT:             oo
+SD:     o   o o   oo
+BD: o o     o
+
+RockBreak11 4/4
+--------------------
+%   1234567890123456
+        * *
+CY:       o
+CH: o o o
+SD:     o
+BD: o     o
+
+RockBreak12 4/4
+--------------------
+%   1234567890123456
+HT:         oo o
+MT:     oo o
+SD: oo o
+LT:              oo
+BD: o       o
+
+Rnb1 4/4
+--------------------
+%   1234567890123456
+CH: o o o o o o o o 
+SD:     o  ooo  o  o
+BD: o o       o  oo
+
+Rnb2 4/4
+--------------------
+%   1234567890123456
+CH: o o o o o o o o 
+SD:     o    o    o
+BD: o oo o o   o o o
+
+Rnb3 4/4
+--------------------
+%   1234567890123456
+CH: o o o o o o o o
+SD:     o       o
+BD: o o    o o o o o
+
+Rnb4 4/4
+--------------------
+%   1234567890123456
+CH: o o o o o o o o
+SD:     o  o    o
+BD: o o     oo o oo
+
+Rnb5 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: o o o o o o o o
+SD:     o       o
+BD: o  o oo  oo
+
+Rnb6 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: o o o o o o o o
+SD:     o       o
+BD:   o      o o oo
+
+Rnb7 4/4
+--------------------
+%   1234567890123456
+CH: o o o   o o o   
+OH:       o       o
+SD:     o  o    o
+BD: o oo    o oo
+
+Rnb8 4/4
+--------------------
+%   1234567890123456
+CY:   o   o   o   o
+SD:     o       o
+BD: o o    o  o  o
+
+Rnb9 4/4
+--------------------
+%   1234567890123456
+CH: o   o   o   o
+OH:   o   o   o   o
+SD:     o       o
+BD: oo o   oo o
+
+Rnb10 4/4
+--------------------
+%   1234567890123456
+        *       *
+OH:   o   o   o   o
+SD:     o  o o  o
+BD: o o     o oo
+
+Rnb11 4/4
+--------------------
+%   1234567890123456
+CH: ooooooo ooooooo
+OH:        o       o
+SD:    o         o 
+BD: oo     oo o
+
+Rnb12 4/4
+--------------------
+%   1234567890123456
+        *   *   *
+CH: oo ooo ooo ooo o
+OH:   o   o   o   o
+SD:     o       o
+BD: o o    oo o  oo
+
+RnbBreak1 4/4
+--------------------
+%   1234567890123456
+        *       *
+CY: o o
+MT:           o
+SD:     oo o o  oo
+LT:               o
+BD: o o
+
+RnbBreak2 4/4
+--------------------
+%   1234567890123456
+        *       *
+CH: o o o
+SD:     o oo ooo  oo
+BD: o       o   oo
+
+RnbBreak3 4/4
+--------------------
+%   1234567890123456
+        *       *
+CY: o
+HT:             o
+MT:           o   oo
+SD:   oooo o o
+BD: o            o
+
+RnbBreak4 4/4
+--------------------
+%   1234567890123456
+CY:             o
+SD:   x  x  x  x  x
+BD: oo oo oo oo o
+
+RnbBreak5 4/4
+--------------------
+%   1234567890123456
+        *   *
+CY: o           o o
+MT:        oo
+SD:     oo    oo
+BD: o           o o
+
+RnbBreak6 4/4
+--------------------
+%   1234567890123456
+                  *
+CY:               o
+MT:       x
+SD: x           x
+BD:  o  o  o  o   o
+
+Samba1 4/4
+--------------------
+%   1234567890123456
+      *   *   *   *
+CY: o ooo ooo ooo oo
+MT: o o    o o
+LT:      o     o oo 
+BD: o  oo  oo  oo  o
+
+Samba2 4/4
+--------------------
+%   1234567890123456
+      *   *   *   *
+CY: o ooo ooo ooo oo
+MT: o o     o
+LT:      o     o o
+BD: o  oo  oo  oo  o
+
+Samba3 4/4
+--------------------
+%   1234567890123456
+      *   *   *   *
+CY: o ooo ooo ooo oo
+MT: o o     o
+LT:      o     o o
+BD: o  oo  oo  oo  o
+
+Samba4 4/4
+--------------------
+%   1234567890123456
+           *   *
+CH:  o o  o o  o  o
+HT: o o 
+MT:     oo o
+SD:          oo
+LT:             oo o
+BD: o  oo  oo  oo  o
+
+Samba5 4/4
+--------------------
+%   1234567890123456
+CY: o  oo oo oo oo
+CH:   o   o   o   o
+MT:      o        oo
+RS:   o     o  o
+BD: o  oo  oo  oo  o
+
+Samba6 4/4
+--------------------
+%   1234567890123456
+CY: o o oooo o oo o
+CH:   o   o   o   o
+MT:               oo
+RS: o o    o o o
+BD: o  oo  oo  oo  o
+
+SambaBreak1 4/4
+--------------------
+%   1234567890123456
+      * *   * *   *
+HT:         o o
+MT:     o oo
+SD: ooo
+LT:             ooo
+BD: o  oo  oo  oo  o
+
+SambaBreak2 4/4
+--------------------
+%   1234567890123456
+    *           * *
+MT:         o o
+SD: ooo         o o
+LT:     o o
+
+SambaBreak3 4/4
+--------------------
+%   1234567890123456
+      *     *   *
+CH:             o
+MT: o o
+SD: o o   o o   o
+LT:       o o
+BD:             o
+
+Shuffle1 4/4
+----------------
+%   123456789012
+       *     *
+CY: o oo oo oo o
+SD:    o     o
+BD: o o  oo
+
+Shuffle2 4/4
+----------------
+%   123456789012
+       *     *
+CY: o oo oo oo o
+SD:    o o   o
+BD: o     o o
+
+Shuffle3 4/4
+----------------
+%   123456789012
+       *     *
+CY: o oo oo oo o
+SD:    o o ooo
+BD: o o   o    o
+
+Shuffle4 4/4
+----------------
+%   123456789012
+       *     *
+CY: o oo oo oo o
+SD:    o     o
+BD: o o  o  o
+
+Shuffle5 4/4
+----------------
+%   123456789012
+       *     *
+CY: o oo oo oo o
+SD:    o   ooo
+BD: o    oo    o
+
+Shuffle6 4/4
+----------------
+%   123456789012
+       *     *
+CY: o oo oo oo o
+SD: o oo oo oo o
+BD: o oo oo oo o
+
+ShuffleBreak1 4/4
+----------------
+%   123456789012
+    * ** ** ** *
+HT:          o
+MT:       ooo
+SD: oooooo
+LT:           oo
+BD: o    oo
+
+ShuffleBreak2 4/4
+----------------
+%   123456789012
+    * ** ** ** *
+HT:        o o o
+MT:       o o o
+SD:  ooooo
+BD: o     o
+
+ShuffleBreak3 4/4
+----------------
+%   123456789012
+    * ** ** ** *
+MT:          ooo
+SD:  o ooo o 
+BD: o o   o o
+
+Ska1 4/4
+--------------------
+%   1234567890123456
+CH:   o   o   o
+OH:               o
+SD:     o       o
+BD: o       o
+
+Ska2 4/4
+--------------------
+%   1234567890123456
+    *   *   *   *
+CH: o o o o o o o o 
+SD:     o       o
+BD: o       o
+
+Ska3 4/4
+--------------------
+%   1234567890123456
+    *   *   *   *
+CH: o o o o o o o
+OH:               o
+SD:     o       o
+BD: o   o   o   o
+
+SkaBreak1 4/4
+--------------------
+%   1234567890123456
+    *   *   *   * *
+SD: o ooo o o oooooo
+
+SkaBreak2 4/4
+--------------------
+%   1234567890123456
+    *   *   *   * 
+OH: o       o
+SD:   ooo o   oooooo
+BD: o       o
+
+SkaBreak3 4/4
+--------------------
+%   1234567890123456
+      *   *   *   *
+CH: o   o   o   o
+OH:   o   o   o   o
+HT:           o
+MT:       o
+SD:   o
+LT:               o
+BD: o   o   o   o
+
+Slow1 4/4
+--------------------
+%   1234567890123456
+CH: o o o o o o o o
+SD:     o       o
+BD: o o    oo o  o
+
+Slow2 4/4
+--------------------
+%   1234567890123456
+CH: o o o o o o o o
+SD:     o       o
+BD: oo    oo  o  o
+
+Slow3 4/4
+--------------------
+%   1234567890123456
+CH: o ooo o o o ooo 
+SD:     o       o
+BD: o     o o o
+
+Slow4 4/4
+--------------------
+%   1234567890123456
+CH: o o ooo   o o
+OH:        o      o
+SD:     o       o
+BD: o      o
+
+Slow5 4/4
+--------------------
+%   1234567890123456
+CH: o o o o o o o o
+SD:     o       o
+BD: o     oo
+
+Slow6 4/4
+--------------------
+%   1234567890123456
+CH: o o o o oo  oo
+OH:           o   o
+SD:         o
+BD: o     o   o   o
+
+Slow7 4/4
+--------------------
+%   1234567890123456
+CH: oo  oo  oo  oo
+OH:   o   o   o   o
+SD:         o
+BD: o     o       o
+
+Slow8 4/4
+--------------------
+%   1234567890123456
+CH: o o o o o o o o
+SD:         o
+BD: o   o o       o
+
+Slow9 4/4
+--------------------
+%   1234567890123456
+CH: o oo  o o o o o
+OH:     o
+SD:         o
+BD: o     o   o   o
+
+Slow10 4/4
+--------------------
+%   1234567890123456
+CH: o   o   o   o
+OH:   o       o
+SD:     o       o
+BD: o      oo    o o
+
+Slow11 4/4
+--------------------
+%   1234567890123456
+CH: ooooooo ooooooo
+OH:        o       o
+SD:     o       o
+BD: o oo   oo o
+
+Slow12 4/4
+--------------------
+%   1234567890123456
+CH: oooooo ooooooo o
+OH:       o       o
+SD:     o       o
+BD: o      oo o  o  
+
+SlowBreak1 4/4
+--------------------
+%   1234567890123456
+CH: o o o o o o o
+SD:     o       oooo
+BD: o      oo
+
+SlowBreak2 4/4
+--------------------
+%   1234567890123456
+CH: o o o o
+MT:         o oo
+SD:     o
+LT:             o oo
+BD: o      oo
+
+SlowBreak3 4/4
+--------------------
+%   1234567890123456
+                **
+OH:               o
+MT:    x
+SD: x        x  oo
+LT:      x
+BD:  o  o  o  o   o 
+
+SlowBreak4 4/4
+--------------------
+%   1234567890123456
+        *
+CH: o o
+OH:               o
+HT:           oo
+MT:         o
+SD:    oo o
+LT:             o o
+BD: o            o o
+
+SlowBreak5 4/4
+--------------------
+%   1234567890123456
+               **
+CH:   o
+OH:       o
+MT:     x        oo
+SD: x        o oo
+BD:   o   o
+
+SlowBreak6 4/4
+--------------------
+%   1234567890123456
+CY: oo
+OH:         o
+HT:               x
+MT:       oo
+SD:     x       x
+BD: oo      o
+
+Swing1 4/4
+----------------
+%   123456789012
+       *     *
+CY: o  o oo  o o
+SD:    o     o
+BD: o    oo    o
+
+Swing2 4/4
+----------------
+%   123456789012
+       *     *
+CY: o  o oo  o o
+SD:    o     o o
+BD: o    oo    
+
+Swing3 4/4
+----------------
+%   123456789012
+       *     *
+CY: o  o oo  o o
+SD:    o     o o
+BD: o  o  o  o
+
+Swing3 4/4
+----------------
+%   123456789012
+       *     *
+CY: o  o oo  o o
+SD:    o o   o
+BD: o     o    o
+
+Swing5 4/4
+----------------
+%   123456789012
+       *     *
+CY: o  o oo  o o
+SD:    o     o
+BD: o     o o  o
+
+Swing6 4/4
+----------------
+%   123456789012
+       *     *
+CY: o  o oo  o o
+SD:    o o   o
+BD: o o   o o
+
+SwingBreak1 4/4
+----------------
+%   123456789012
+SD: x x x x x x
+BD:  o o o o o o
+
+SwingBreak2 4/4
+----------------
+%   123456789012
+     *  *  *  *
+HT:       oo
+MT:    oo
+SD: oo
+LT:          oo
+BD:   o  o  o  o
+
+SwingBreak3 4/4
+----------------
+%   123456789012
+CY: o oo
+MT:           oo
+SD:    o   oo
+BD: o o   o  o
+
+Twist1 4/4
+--------------------
+%   1234567890123456
+          *     *
+CY: o ooo o o o o o
+CH: o   o   o   o
+SD:     o o     o
+BD: o       o o
+
+Twist2 4/4
+--------------------
+%   1234567890123456
+          *     *
+CY: o o o o o o o o
+SD:   o o o     o
+BD: o       o
+
+Twist3 4/4
+--------------------
+%   1234567890123456
+          *
+CY: o   o o o   o
+CH: o o o o o o o o
+SD:     o o     o
+BD: o       o
+
+TwistBreak1 4/4
+--------------------
+%   1234567890123456
+                * *
+MT: o o o o o o 
+SD: o o o o     x x
+LT:         o o
+
+TwistBreak2 4/4
+--------------------
+%   1234567890123456
+    *           * *
+MT:   o o o
+SD: x o o o o o oooo
+LT:         o o
+
+TwistBreak3 4/4
+--------------------
+%   1234567890123456
+         *        *
+CY:               o
+CH: o   o   o   o
+MT:         oo o o
+SD: oo o ooo      o
+
+Waltz1 3/4
+----------------
+%   123456789012
+CY: o   o  oo
+CH:     o   o
+SD:     o   o
+BD: o
+
+Waltz2 3/4
+----------------
+%   123456789012
+CY: o
+CH:     o   o
+SD:     o   o
+BD: o
+
+Waltz3 3/4
+----------------
+%   123456789012
+CY: o   o   o  o
+CH:     o   o
+SD:     o   o  o
+BD: o
+
+WaltzBreak1 3/4
+----------------
+%   123456789012
+CY: o
+CH:     o   o
+SD:     o o o o
+BD: o
+
+WaltzBreak2 3/4
+----------------
+%   123456789012
+CH:     o   o
+MT:     x
+SD: x
+LT:         x
+BD: o
+
+WaltzBreak3 3/4
+----------------
+%   123456789012
+CH:     o   o
+MT:     o o
+SD: x
+LT:         o o
+
+Ending1 3/4
+--------------------
+%   1234567890123456
+    *
+CH: o
+BD: o
+
+Ending2 3/4
+--------------------
+%   1234567890123456
+            *
+CY:         o
+MT:     x
+SD: x
+BD:         o
+
+Ending3 3/4
+--------------------
+%   1234567890123456
+            *
+CY:         o
+MT:    oo
+SD: oo
+LT:       o
+BD:         o
